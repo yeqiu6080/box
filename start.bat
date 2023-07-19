@@ -1,1 +1,1 @@
-@echo off&&hexo clean&&hexo g&&hexo s
+@echo off&&hexo clean&&hexo g&&start http://127.0.0.1:4000&&hexo s
